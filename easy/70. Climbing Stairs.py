@@ -10,4 +10,4 @@ class Solution(object):
 			num+=self.rec_jie(i+n-2*i)/self.rec_jie(i)/self.rec_jie(n-2*i)
 		return num
 		
-print Solution().climbStairs(4)
+print Solution().climbStairs(7)

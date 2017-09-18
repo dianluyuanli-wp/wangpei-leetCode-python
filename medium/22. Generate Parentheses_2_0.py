@@ -23,4 +23,4 @@ class Solution(object):
 		self.kuohao('',n,n)
 		return Solution.ans
 		
-print Solution().generateParenthesis(3)
+print Solution().generateParenthesis(7)

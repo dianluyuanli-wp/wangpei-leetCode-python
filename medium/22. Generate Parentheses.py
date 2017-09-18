@@ -41,4 +41,4 @@ class Solution(object):
 				ans_true.append(k_list[i])
 		return ans_true
 		
-print(Solution().generateParenthesis(3))
+print(Solution().generateParenthesis(7))
